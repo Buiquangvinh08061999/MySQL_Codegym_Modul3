@@ -33,8 +33,6 @@ CREATE TABLE `Subject`(
 INSERT INTO `Subject`(SubName,  Credit)
 VALUES("Vinh",2);
 
-
-
 CREATE TABLE Mark(
 	MarkID INT AUTO_INCREMENT PRIMARY KEY,
     SubID INT NOT NULL UNIQUE ,
