@@ -1,6 +1,8 @@
 
 USE banking_transaction_management;
 
+
+
 delimiter $$
 create procedure gui_tien(
 	IN id_customer BIGINT,
@@ -139,11 +141,28 @@ SELECT @mes;
 
 
 
+delimiter $$
+CREATE TRIGGER update_customer_from_deposits
+AFTER INSERT
+ON deposits FOR EACH ROW
+BEGIN
+	DECLARE total DECIMAL(12,0);
+    SET total = (SELECT balance FROM customers WHERE id = NEW.customer_id);
+    
+    UPDATE `banking_transaction_management`.`customers` 
+    SET `balance` = total + NEW.transaction_amount , `updated_at` = now() WHERE (`id` = NEW.customer_id);
 
+END;$$
 
+delimiter $$
+CREATE TRIGGER delete_customer_from_withdraws
+AFTER INSERT
+ON withdraws FOR EACH ROW
+BEGIN
+	DECLARE total DECIMAL(12,0);
+    SET total = (SELECT balance FROM customers WHERE id = NEW.customer_id);
 
-
-
+END;$$
 
 
 
