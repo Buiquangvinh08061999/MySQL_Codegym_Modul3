@@ -1,10 +1,16 @@
+
+
+/* #message-alert {
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+} */
+
 .header{
     background-color: #299be4;
     padding: 16px 30px;
 }
-.header--left h1{
-    color: white;
-}
+
 /* đẩy thẻ a sang mép bên phải và xuống 10px */
 .header--right{
     text-align: right;
@@ -13,13 +19,4 @@
 /* Tất cả thuộc tính label: điều ghi hoa: 4 tên được ghi hoa*/
 form label{
     font-weight: bold;
-}
-
-/* Tất cả thụt 4 tên thụt xuống 20px */
-.body-input1{
-    margin-top: 20px;
-}
-
-.body-end{
-    margin-top: 20px;
 }

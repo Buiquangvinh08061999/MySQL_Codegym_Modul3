@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/transfer_list.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="bootstrap-4.0.0-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/bootstrap-4.0.0-dist/js/bootstrap.min.js">
+</head>
+<body>
+    <div class="container">
+        <div class="row header">
+            <div class="col-sm-6 text-white">
+                <h2>Transfer money Information</h2>
+            </div>
+            <div class="col-sm-6 header--right">
+                <a href="index.html" class="btn btn-outline-light">
+                    <i class="fa-solid fa-list"></i>
+                    <span>Customer list</span>
+                </a>
+            </div>
+        </div>
+        
+        
+        
+         <form class="row">
+            <div class="col-sm-3 mt-3">
+                <label class="form-lable">Sender ID</label>
+                <input type="text" class="form-control" name="senderId">
+            </div>
+            <div class="col-sm-3 mt-3">
+                <label class="form-lable">Sender Name</label>
+                <input type="text" class="form-control" name="senderName">
+            </div>
+            <div class="col-sm-3 mt-3">
+                <label class="form-lable">Email</label>
+                <input type="text" class="form-control" name="email">
+            </div>
+            <div class="col-sm-3 mt-3">
+                <label class="form-lable">Sender balance</label>
+                <input type="text" class="form-control" name="balance">
+            </div>
+            
+    
+            <div class="col-sm-3 mt-3">
+            <div class="form-lable">
+                <label for="">Example select</label>
+                <select class="form-control" id="">
+                  <option>(505)</option>
+                  <option>2</option>
+                  <option>3</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="col-sm-3 mt-3">
+                <label class="form-lable">Transfer Amount ($)</label>
+                <input type="text" class="form-control" name="transferAmount">
+            </div>
+
+            <div class="col-sm-3 mt-3">
+                <label class="form-lable">Fees (%)</label>
+                <input type="text" class="form-control" name="transferAmount">
+            </div>
+
+            <div class="col-sm-3 mt-3">
+                <label class="form-lable">Total amount of transaction ($)</label>
+                <input type="text" class="form-control" name="transactionAmount">
+            </div>
+
+            
+
+
+
+            <div class="col-sm-12 mt-3">
+               <button type="submit" class="btn btn-outline-warning">
+                <i class="fa fa-minus"></i>
+                <span>Withdraw</span>
+               </button>
+            </div>
+         </form>
+       
+    </div>
+</body>
+</html>
