@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71a108a7-4718-40c5-8114-8701ac3f5868" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/Person/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/Person/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/Person/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/Person/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/Person/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/Person/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/Person/src/main/java/com/cg/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/Person/src/main/java/com/cg/servlet/PersonServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/Person/src/main/webapp/person/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/ThucHanhCacPhuongThuc_TrungTamJava/src/main/java/com/codegym/_18_Session/Session1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/ThucHanhCacPhuongThuc_TrungTamJava/src/main/java/com/codegym/_18_Session/Session2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo-dashboard/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo-dashboard/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo-dashboard/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo-dashboard/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo-dashboard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo-dashboard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/java/com/cg/controller/DashboardServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/dashboard/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo-text/src/main/java/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../_09_Tongquan_veHttp/practice/demo6/src/main/java/demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanhSachKhachHang/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanhSachKhachHang/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanhSachKhachHang/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanhSachKhachHang/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanhSachKhachHang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DanhSachKhachHang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_01_database_relationship/exercise/Person.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../_01_database_relationship/exercise/Person.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_06_CSS/Định dạng văn bản/format_text_with_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../_06_CSS/Định dạng văn bản/format_text_with_css.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2ANNHWLNQxwm4toEYqM2B9WnBTN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71a108a7-4718-40c5-8114-8701ac3f5868" name="Changes" comment="" />
+      <created>1654845995767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654845995767</updated>
+      <workItem from="1654845996912" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

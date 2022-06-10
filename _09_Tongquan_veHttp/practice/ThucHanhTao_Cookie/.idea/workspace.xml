@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1731aa9d-fbc9-40ee-afcc-a0beb677d3f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Text_Response/src/main/java/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text_Response/src/main/java/com/vb/Banking/LoginBanking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text_Response/src/main/webapp/Banking/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Text_Response/src/main/webapp/Banking/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-text/src/main/java/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_01_database_relationship/exercise/Person.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_01_database_relationship/exercise/Person.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_06_CSS/Định dạng văn bản/format_text_with_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_06_CSS/Định dạng văn bản/format_text_with_css.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2AK0jLU8Tz13rrIndq9Nhr9gDWj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1731aa9d-fbc9-40ee-afcc-a0beb677d3f9" name="Changes" comment="" />
+      <created>1654743104351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654743104351</updated>
+      <workItem from="1654743107009" duration="1000" />
+    </task>
+    <servers />
+  </component>
+</project>
