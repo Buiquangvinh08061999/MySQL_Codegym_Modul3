@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7c483e6-441b-4210-955a-45ef9bb24beb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/service/CityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/service/CityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/utils/ValidateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_01_database_relationship/exercise/Person.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_01_database_relationship/exercise/Person.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_06_CSS/Định dạng văn bản/format_text_with_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_06_CSS/Định dạng văn bản/format_text_with_css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Person/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Person/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Person/src/main/java/com/cg/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Person/src/main/java/com/cg/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Person/src/main/java/com/cg/servlet/PersonServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Person/src/main/java/com/cg/servlet/PersonServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Person/src/main/webapp/person/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Person/src/main/webapp/person/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Text_Response/src/main/java/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Text_Response/src/main/java/com/vb/Banking/LoginBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Text_Response/src/main/webapp/Banking/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Text_Response/src/main/webapp/Banking/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhCacPhuongThuc_TrungTamJava/src/main/java/com/codegym/_18_Session/Session1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhCacPhuongThuc_TrungTamJava/src/main/java/com/codegym/_18_Session/Session1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhCacPhuongThuc_TrungTamJava/src/main/java/com/codegym/_18_Session/Session2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhCacPhuongThuc_TrungTamJava/src/main/java/com/codegym/_18_Session/Session2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhTao_Cookie/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhTao_Cookie/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhTao_Cookie/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhTao_Cookie/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhTao_Cookie/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhTao_Cookie/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhTao_Cookie/src/main/java/com/codegym/Cookie/servlet1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhTao_Cookie/src/main/java/com/codegym/Cookie/servlet2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/ThucHanhTao_Cookie/src/main/webapp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Thuchanh_Session/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Thuchanh_Session/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Thuchanh_Session/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Thuchanh_Session/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Thuchanh_Session/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/Thuchanh_Session/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/java/com/cg/controller/CPCategoryServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/java/com/cg/controller/CPCategoryServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/java/com/cg/controller/CPProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/java/com/cg/controller/CPProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/java/com/cg/controller/DashboardServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/java/com/cg/controller/DashboardServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/category/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/category/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/head.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/head.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/left-side-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/left-side-menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/navbar/logo-box.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/navbar/logo-box.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/navbar/topnav-menu-left.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/navbar/topnav-menu-left.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/navbar/topnav-menu-right.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/navbar/topnav-menu-right.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/right-bar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/right-bar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/script/app.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/script/app.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/script/script.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/script/script.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/script/validator.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/script/validator.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/script/vendor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/layout/script/vendor.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/product/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/product/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/product/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/temp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-dashboard/src/main/webapp/cp/temp.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-text/src/main/java/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo-text/src/main/java/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo6/src/main/java/demo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_09_Tongquan_veHttp/practice/demo6/src/main/java/demo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_10_JSP_JSTL/DanhSachKhachHang/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_10_JSP_JSTL/DanhSachKhachHang/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_10_JSP_JSTL/DanhSachKhachHang/AnhTop_Vu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/src/main/java/controller/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/src/main/java/dao/USerDAOimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/src/main/java/dao/USerDAOimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/src/main/webapp/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/LamLaiManage-User/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/classes/java/main/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/classes/java/main/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/classes/java/main/dao/IUserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/classes/java/main/dao/IUserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/classes/java/main/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/classes/java/main/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/libs/Manage-User-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/libs/Manage-User-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/src/main/java/controller/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/src/main/java/dao/IUserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/src/main/java/dao/IUserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/src/main/webapp/user/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/Manage-User/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/controller/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/controller/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/service/IGeneralService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/service/IGeneralService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/service/UserServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/service/UserServiceimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/utils/MySQLConnUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/java/com/cg/utils/MySQLConnUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/acssets/css/create.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/acssets/css/create.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/acssets/css/edit.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/acssets/css/edit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/acssets/css/list.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/acssets/css/list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/user/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/user/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_12_ JDBC &amp; CRUD/Practice/User-AMINH/src/main/webapp/user/list.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2AedFbDCNsOzRsU9DUnyuvFMcO2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7c483e6-441b-4210-955a-45ef9bb24beb" name="Changes" comment="" />
+      <created>1655373881699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655373881699</updated>
+      <workItem from="1655373884975" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
