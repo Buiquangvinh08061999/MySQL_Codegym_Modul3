@@ -4,7 +4,7 @@
         <li class="dropdown notification-list dropdown d-none d-lg-inline-block ml-2">
             <a class="nav-link dropdown-toggle mr-0 waves-effect waves-light" data-toggle="dropdown" href="#"
                role="button" aria-haspopup="false" aria-expanded="false">
-                <img src="\assetsa\images\flags\us.jpg" alt="lang-image" height="12">
+                <img src="\assetsa\images\flags\covietnam.jpg" alt="lang-image" height="12">
             </a>
         </li>
 
@@ -28,7 +28,7 @@
         <li class="dropdown notification-list">
             <a class="nav-link dropdown-toggle nav-user mr-0 waves-effect waves-light" data-toggle="dropdown"
                href="#" role="button" aria-haspopup="false" aria-expanded="false">
-                <img src="\assetsa\images\users\avatar-1.jpg" alt="user-image" class="rounded-circle">
+                <img src="\assetsa\images\users\aaaaa.jpg" alt="user-image" class="rounded-circle">
                 <span class="d-none d-sm-inline-block ml-1 font-weight-medium">Bui Quang Vinh</span>
 
             </a>
@@ -38,13 +38,11 @@
 
     <!-- LOGO -->
     <div class="logo-box">
-        <a href="index.html" class="logo text-center logo-dark">
+        <a href="/cpa/temp.jsp" class="logo text-center logo-dark">
                     <span class="logo-lg">
                         <img src="\assetsa\images\logo.png" alt="" height="22">
-                        <!-- <span class="logo-lg-text-dark">Uplon</span> -->
                     </span>
         </a>
-
 
     </div>
 
