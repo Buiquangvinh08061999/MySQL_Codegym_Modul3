@@ -91,7 +91,7 @@
                         </tr>
                         </thead>
                         <tbody>
-                        <c:forEach items="${listS}" var="item">
+                        <c:forEach items="${listS}" var="item" >
                             <tr>
 <%--                                <th>${item.id}</th>--%>
 <%--                                <th>${item.username}</th>--%>
@@ -100,7 +100,7 @@
                                 <td class="pd-top">${item.fullname}</td>
                                 <td class="pd-top">${item.phone}</td>
                                 <td class="pd-top">${item.email}</td>
-                                <td class="pd-top">${item.city}</td>
+                                <td class="pd-top">${item.cityName}</td>
                                 <td class="pd-top">${item.role}</td>
                                 <td class="pd-top">${item.updatedAt}</td>
                                 <td class="pd-top">${item.createdAt}</td>

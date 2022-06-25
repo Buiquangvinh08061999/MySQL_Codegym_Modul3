@@ -11,6 +11,8 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <script>
+    location.href="/cpa";
+  </script>
   </body>
 </html>

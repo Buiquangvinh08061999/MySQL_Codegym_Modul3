@@ -10,9 +10,13 @@ public interface IGeneralService<T> {
 
     boolean create(T t);
 
-    User findById(int userId);
+    T findById(int userId);
 
     boolean update(T t );
 
-    boolean remove(int id);
+    boolean existsByEmail(String email);
+
+    boolean existsByPhone(String phone);
+
+
 }

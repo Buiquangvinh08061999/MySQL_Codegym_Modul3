@@ -3,14 +3,19 @@ import java.util.regex.Pattern;
 
 
 public class Validate {
+
+    public static final String NUMBER_REGEX = "\\d+";
     private static final String USERNAME_PATTERN = "^(?=.{8,20}$)(?![_.])(?!.*[_.]{2})[a-zA-Z0-9._]+(?<![_.])$";
-    private static final String PASSWORD_PATTERN = "/^([A-Z]){1}([\\w_\\.!@#$%^&*()]+){5,31}$/";
+    private static final String PASSWORD_PATTERN = "(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^*])(?!.*['\"`]).{6,}";
     private static final String FUllNAME_PATTERN = "^([A-Z]+[a-z]*[ ]?)+$";
     private static final String PHONE_REGEX = "^[0][1-9][0-9]{8,9}$";
     private static final String EMAIL_PATTERN = "^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,3}$";
+
     private static final String Role ="(ADMIN)|(USER)";
 
-
+    public static boolean isNumberValid(String number) {
+        return Pattern.compile(NUMBER_REGEX).matcher(number).matches();
+    }
 
     public static boolean isUsernameValid(String userName){
         return Pattern.compile(USERNAME_PATTERN).matcher(userName).matches();

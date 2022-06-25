@@ -36,8 +36,8 @@
                     <span class="menu-arrow"></span>
                 </a>
                 <ul class="nav-second-level" aria-expanded="false">
-                    <li><a href="indexProductList.html"><i class="mdi mdi-format-list-bulleted mdi-18px"></i>List Product</a></li>
-                    <li><a href="indexCreateProduct.html"><i class="mdi mdi-plus mdi-28px"></i>Create Product</a></li>
+                    <li><a href="/cpa/product?action=list"><i class="mdi mdi-format-list-bulleted mdi-18px"></i>List Product</a></li>
+                    <li><a href="/cpa/product?action=create"><i class="mdi mdi-plus mdi-28px"></i>Create Product</a></li>
                     <li><a href="#">Pricing</a></li>
                 </ul>
             </li>

@@ -9,59 +9,60 @@ public class User {
     private String fullname;
     private String phone;
     private String email;
-    private String city;
+    private int cityId;
     private String role;
     private Date updatedAt;
     private Date createdAt;
     private String img;
 
 
-    public User(int id, String username, String password, String fullname, String phone, String email, String city, String role, Date updatedAt, Date createdAt, String img) {
+    public User(int id, String username, String password, String fullname, String phone, String email, int cityId, String role, Date updatedAt, Date createdAt, String img) {
         this.id = id;
         this.username = username;
         this.password = password;
         this.fullname = fullname;
         this.phone = phone;
         this.email = email;
-        this.city = city;
+        this.cityId = cityId;
         this.role = role;
         this.updatedAt = updatedAt;
         this.createdAt = createdAt;
         this.img = img;
     }
 
-    public User(String username, String password, String fullname, String phone, String email, String city, String role) {
+    public User(String username, String password, String fullname, String phone, String email, int cityId, String role) {
         this.username = username;
         this.password = password;
         this.fullname = fullname;
         this.phone = phone;
         this.email = email;
-        this.city = city;
+        this.cityId = cityId;
         this.role = role;
     }
 
-    public User(String username, String password, String fullname, String phone, String email, String city, String role, String img) {
+    public User(String username, String password, String fullname, String phone, String email, int cityId, String role, String img) {
         this.username = username;
         this.password = password;
         this.fullname = fullname;
         this.phone = phone;
         this.email = email;
-        this.city = city;
+        this.cityId = cityId;
         this.role = role;
         this.img = img;
     }
 
-    public User(int id, String username, String password, String fullname, String phone, String email, String city, String role, String img) {
+    public User(int id, String username, String password, String fullname, String phone, String email, int cityId, String role, String img) {
         this.id = id;
         this.username = username;
         this.password = password;
         this.fullname = fullname;
         this.phone = phone;
         this.email = email;
-        this.city = city;
+        this.cityId = cityId;
         this.role = role;
         this.img = img;
     }
+
 
 
     public int getId() {
@@ -112,12 +113,12 @@ public class User {
         this.email = email;
     }
 
-    public String getCity() {
-        return city;
+    public int getCityId() {
+        return cityId;
     }
 
-    public void setCity(String city) {
-        this.city = city;
+    public void setCityId(int cityId) {
+        this.cityId = cityId;
     }
 
     public String getRole() {
@@ -152,6 +153,7 @@ public class User {
         this.img = img;
     }
 
+
     @Override
     public String toString() {
         return "User{" +
@@ -161,7 +163,7 @@ public class User {
                 ", fullname='" + fullname + '\'' +
                 ", phone='" + phone + '\'' +
                 ", email='" + email + '\'' +
-                ", city='" + city + '\'' +
+                ", cityId='" + cityId + '\'' +
                 ", role='" + role + '\'' +
                 ", img='" + img + '\'' +
                 '}';

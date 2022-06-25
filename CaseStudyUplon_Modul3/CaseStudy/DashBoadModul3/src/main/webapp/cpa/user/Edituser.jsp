@@ -11,7 +11,7 @@
             margin-top: 36px;
             color: #35895c
         }
-        .error{
+        .errors{
             margin-top: 36px;
             color: #c64c5e
         }
@@ -97,14 +97,12 @@
                         </div>
 
                         <div class="col-sm-6 mt-3">
-                            <label>City <span class="text-danger">*</span></label>
-                            <select name="city"  class="form-control" var="">
-                                <option value="HUẾ">HUẾ</option>
-                                <option value="ĐÀ NẴNG">ĐÀ NẴNG</option>
-                                <option value="QUẢNG TRỊ">QUẢNG TRỊ</option>
-                                <option value="QUẢNG BÌNH">QUẢNG BÌNH</option>
-                                <option value="NGHỆ AN">NGHỆ AN</option>
-                                <option value="HÀ TĨNH">HÀ TĨNH</option>
+                            <label for="cityId">City <span class="text-danger">*</span></label>
+                            <select name="cityId"  class="form-control" id="cityId" ${user.cityId}>
+                                    <option value="1">HUẾ</option>
+                                    <option value="2">ĐÀ NẴNG</option>
+                                    <option value="3">QUẢNG TRỊ</option>
+                                    <option value="4">VINH</option>
                             </select>
                         </div>
 
@@ -121,34 +119,26 @@
                         </div>
 
                         <div class="col-sm-3 mt-3">
-                            <button type="submit" class="btn btn-success waves-effect waves-light"> Update user </button>
+                            <button type="submit" class="btn btn-success"> Update user </button>
                         </div>
 
                     </fieldset>
                 </form>
+
+                <c:forEach items="${requestScope['errors']}" var="item">
+                    <ul class="errors">
+                        <li>${item}</li>
+                    </ul>
+                </c:forEach>
             </div>
+        </div>
 
             <div class="">
-                <c:if test="${success == true}">
+                <c:if test="${requestScope['success'] == true}">
                     <ul class="success">
                         <li>Cập nhật thành công</li>
                     </ul>
                 </c:if>
-                <c:if test="${errors == true}">
-                    <ul class="error">
-                        <li>Cập nhật thất bại</li>
-                    </ul>
-                </c:if>
-
-                <%--                  <c:if test="${!errors.isEmpty()}">--%>
-                <%--                      <ul class="error">--%>
-                <%--                          <c:forEach items="${errors}" var="item">--%>
-                <%--                              <li>${item}</li>--%>
-                <%--                          </c:forEach>--%>
-                <%--                      </ul>--%>
-                <%--                  </c:if>--%>
-
-
             </div>
 
         </div>
@@ -166,7 +156,6 @@
                 )
             })
         </script>
-
     <!-- Footer Start -->
     <footer class="footer">
         <%--5--%>

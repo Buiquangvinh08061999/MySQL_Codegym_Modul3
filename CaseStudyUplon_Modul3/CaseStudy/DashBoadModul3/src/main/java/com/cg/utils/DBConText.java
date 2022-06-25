@@ -36,6 +36,14 @@ public class DBConText {
 //        }
 //    }
 
+
+
+
+
+
+
+
+
     public static void printSQLException(SQLException ex) {
         for (Throwable e : ex) {
             if (e instanceof SQLException) {
